@@ -1,0 +1,7 @@
+E:\Documents\COP2360\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Documents\COP2360\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Documents\COP2360\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Documents\COP2360\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Documents\COP2360\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Documents\COP2360\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Documents\COP2360\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
